@@ -50,6 +50,6 @@ tle_line2 = '2 58743  43.0052 157.6181 0003025 252.5106 107.5434 15.78148885  28
 
 observer_latitude = 41.01  # Latitude of Istanbul
 observer_longitude = 28.95  # Longitude of Istanbul
-start_date = (2024, 1, 24)
+start_date = (2024, 1, 14)
 
 calculate_passes(tle_line1, tle_line2, observer_latitude, observer_longitude, start_date)
